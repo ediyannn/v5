@@ -1,0 +1,6 @@
+{
+  "name": "TRÉ TREATS",
+  "description": "Premium dessert business specializing in artisanal rice treats. Sweet moments in every bite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
